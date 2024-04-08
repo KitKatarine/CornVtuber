@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "corn.moc3",
+		"Textures": [
+			"corn.1024/texture_00.png"
+		],
+		"DisplayInfo": "corn.cdi3.json"
+	}
+}
