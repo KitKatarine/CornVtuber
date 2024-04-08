@@ -4,7 +4,7 @@ This is a SIMPLE Corn Vtuber Model for use with applications that can run .moc3 
 
 What you get: 
 
-- The .moc3, .cmo3, both JSON files (corn.cdi3 and corn.model3), as well as the original .psd file AND the original .kra file (for use with Krita image program)
+- The .moc3, .cmo3, both JSON files (corn.cdi3 and corn.model3), the texture_00, as well as the original .psd file AND the original .kra file (for use with Krita image program)
 
 - basic left right tracking, eyes blink, mouth open and close, mouth smile and frown.
 
